@@ -1,0 +1,18 @@
+{
+    "name": "dbokov/xo",
+    "description": "Simple XO game",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Dmitry Bokov",
+            "email": "daeron.org@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dbokov\\xo\\": ""
+        }
+    }
+}
