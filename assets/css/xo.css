@@ -1,0 +1,26 @@
+.game-field {
+    margin: 40px auto 0 auto;
+}
+
+.game-cell {
+    border:1px solid #ccc;
+    width:60px;
+    height:55px;
+    vertical-align: middle;
+    line-height: 55px;
+}
+
+.game-cell:hover {
+    background: lightblue;
+    cursor: pointer;
+}
+
+.results {
+    display: none;
+}
+
+#game_result {
+    font-size:25px;
+    font-weight: bold;
+    margin-bottom:15px;
+}
