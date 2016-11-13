@@ -19,6 +19,6 @@
         }
     },
     "extra": {
-        "bootstrap": "dbokov\\Bootstrap"
+        "bootstrap": "dbokov\\xo\\Bootstrap"
     }
 }
